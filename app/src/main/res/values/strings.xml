@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Paging Demo</string>
+
+    <!--play store-->
+    <string name="app_google_play_store_link">"https://play.google.com/store/apps/details?id="</string>
+    <string name="app_market_link">"market://details?id="</string>
+
+    <!--permission-->
+    <string name="rationale_title">Permission required</string>
+    <string name="rationale_message">we need permission for read <b>contact</b> and find your <b>location</b></string>
+    <string name="title_activity_main">MainActivity</string>
+</resources>
