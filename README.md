@@ -1,0 +1,3 @@
+# android-mvvm-paging-demo
+
+using Dagger2, Room, RxJava2, FastAndroidNetworking, Fresco, Paging, Jetpack...
